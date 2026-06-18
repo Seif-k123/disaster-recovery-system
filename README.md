@@ -118,9 +118,13 @@ This system automatically provisions and manages cloud infrastructure capable of
 ---
 🚀 Deployment
 terraform init
+
 terraform validate
+
 terraform plan
+
 terraform  apply -auto-approve
+
 ---
 🔐 Security Highlights
 - Private database subnet
