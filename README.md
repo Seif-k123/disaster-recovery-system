@@ -41,7 +41,8 @@ This system automatically provisions and manages cloud infrastructure capable of
 
 ## 🌐 Networking Layer
 
-![VPC](images/services/vpc.png)
+<img width="1527" height="507" alt="Screenshot 2026-06-18 142322" src="https://github.com/user-attachments/assets/c15e981c-d77d-4611-b2f4-ea679627dd16" />
+
 
 ![Subnets](images/services/subnets.png)
 
