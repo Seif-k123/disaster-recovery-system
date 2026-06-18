@@ -27,13 +27,6 @@ This system automatically provisions and manages cloud infrastructure capable of
 - Scalability
 
 ---
-
-# 🏗️ System Architecture
-
-![Architecture](images/services/architecture.png)
-
----
-
 # ⚙️ Tech Stack
 
 - AWS (EC2, RDS, VPC, S3, SNS, CloudWatch, Lambda)
