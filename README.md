@@ -44,9 +44,9 @@ This system automatically provisions and manages cloud infrastructure capable of
 <img width="1527" height="507" alt="Screenshot 2026-06-18 142322" src="https://github.com/user-attachments/assets/c15e981c-d77d-4611-b2f4-ea679627dd16" />
 
 
-![Subnets](images/services/subnets.png)
+<img width="1527" height="703" alt="Image" src="https://github.com/user-attachments/assets/9e1dfddd-1111-4f4f-a15a-dcf87e05648c" />
 
-![Route Table](images/services/route-table.png)
+<img width="1561" height="643" alt="Image" src="https://github.com/user-attachments/assets/6f88faad-cc75-4fd1-9f09-a320863a8830" />
 
 - Custom VPC (10.0.0.0/16)
 - Public & Private Subnets
@@ -57,9 +57,9 @@ This system automatically provisions and manages cloud infrastructure capable of
 
 ## 🖥️ Compute Layer
 
-![ASG](images/services/asg.png)
+<img width="1472" height="391" alt="Image" src="https://github.com/user-attachments/assets/a06ead94-a9fb-4c7c-8471-f7dc027cf2a8" />
 
-![Launch Template](images/services/launch-template.png)
+<img width="1447" height="457" alt="Image" src="https://github.com/user-attachments/assets/af591157-daf3-48bf-a77f-e96e3330aa8c" />
 
 - Auto Scaling Group (ASG)
 - EC2 instances with Nginx
@@ -69,9 +69,9 @@ This system automatically provisions and manages cloud infrastructure capable of
 
 ## 🗄️ Database Layer
 
-![RDS](images/services/rds.png)
+<img width="1556" height="781" alt="Image" src="https://github.com/user-attachments/assets/8f689303-20a6-4eb2-9c53-627279dbf7ff" />
 
-![DB Subnet Group](images/services/db-subnet.png)
+<img width="1480" height="497" alt="Image" src="https://github.com/user-attachments/assets/cd501152-aceb-4444-9ec0-94ee52d31de7" />
 
 - Amazon RDS MySQL 8.0
 - Private subnet deployment
@@ -81,7 +81,7 @@ This system automatically provisions and manages cloud infrastructure capable of
 
 ## 📦 Storage Layer
 
-![S3](images/services/s3.png)
+<img width="1522" height="717" alt="Image" src="https://github.com/user-attachments/assets/36cc3094-8a50-4db5-aaf8-afe10dcfcc11" />
 
 - S3 bucket for backups
 - Versioning enabled
@@ -89,10 +89,9 @@ This system automatically provisions and manages cloud infrastructure capable of
 ---
 
 ## 📊 Monitoring & Alerting
+<img width="1483" height="665" alt="Image" src="https://github.com/user-attachments/assets/f3ab9b3f-1d15-4665-a1f9-e5b881be1770" />
 
-![CloudWatch](images/services/cloudwatch.png)
-
-![SNS](images/services/sns.png)
+<img width="1562" height="723" alt="Image" src="https://github.com/user-attachments/assets/100bde98-6744-4ec9-81c2-60f0319b89a0" />
 
 - CloudWatch alarms for EC2 health
 - SNS notification system
@@ -101,9 +100,7 @@ This system automatically provisions and manages cloud infrastructure capable of
 
 ## ⚡ Auto-Healing Layer
 
-![Lambda](images/services/lambda.png)
-
-![Lambda Logs](images/services/lambda-logs.png)
+<img width="1846" height="552" alt="Image" src="https://github.com/user-attachments/assets/dc11cc32-28c7-4a22-8113-7f6842703bbf" />
 
 - AWS Lambda function
 - Event-driven recovery system
